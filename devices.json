@@ -1,0 +1,16 @@
+{
+    "devices": [
+        {
+            "name": "Nothing Phone 2",
+            "manufacturer": "Nothing",
+            "maintainer": "DylanAkp",
+            "codename": "phone2"
+        },
+        {
+            "name": "Poco F5",
+            "manufacturer": "Poco",
+            "maintainer": "Chaitanya",
+            "codename": "marble"
+        }
+    ]
+}
