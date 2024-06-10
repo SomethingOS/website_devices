@@ -11,6 +11,12 @@
             "manufacturer": "Poco",
             "maintainer": "Chaitanya",
             "codename": "marble"
+        },
+        {
+            "name": "POCO X3 Pro",
+            "manufacturer": "Poco",
+            "maintainer": "kuroringo90",
+            "codename": "vayu"
         }
     ]
 }
