@@ -18,5 +18,11 @@
             "maintainer": "kuroringo90",
             "codename": "vayu"
         }
+        {
+            "name": "OnePlus 9/9 Pro",
+            "manufacturer": "OnePlus",
+            "maintainer": "DylanAkp",
+            "codename": "oneplus9"
+        }
     ]
 }
